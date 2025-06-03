@@ -104,7 +104,7 @@ See [A2S-API](https://github.com/erkston/a2s-api). It's extremely simple but req
 | thumb-host        | (optional) If set will use this as the base url for the map thumbnails |
 
 > [!TIP]  
-> `thumb-host` - This repo has some thumbnails for TF2 maps in the [map-images](https://github.com/erkston/valve-a2s-glance-widget/tree/main/map-images) folder. Sourced from PrivateTwinkleToes at [Spriters-Resource](https://www.spriters-resource.com/pc_computer/tf2/sheet/71302/). As this is not comprehensive for the possible maps/games supported, you can also set your own ```thumb-host``` to provide your own image host. This option should point to a folder with ```.png``` files for each map name.
+> `thumb-host` - This repo has some thumbnails for TF2 maps in the [map-images](https://github.com/erkston/valve-a2s-glance-widget/tree/main/map-images) folder. Sourced from PrivateTwinkleToes at [Spriters-Resource](https://www.spriters-resource.com/pc_computer/tf2/sheet/71302/). As this is not comprehensive for the possible maps/games supported, you can also set your own ```thumb-host``` to provide your own image host. This option should point to a folder with ```.png``` files for each map name. Alternatively submit a PR/Issue to add other game/map images to this repo.
 
 ## Inspo
 [not-first](https://github.com/not-first) - [Minecraft Glance widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/minecraft-server-by-not-first/README.md)
